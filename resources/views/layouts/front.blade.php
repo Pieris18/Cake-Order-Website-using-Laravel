@@ -46,7 +46,7 @@
         </div>
 
         <div class="whatsapp-chat">
-            <a href="https://wa.me/+94719825742?text=Welcome%20to%20Emmy%20Cakes" target="_blank">
+            <a href="https://wa.me/#?text=Welcome%20to%20Emmy%20Cakes" target="_blank">
                 <img src="{{ asset('assets/images/whatsapp-icon.png') }}" alt="whatsapp-logo" height="65px" width="65px">
             </a>
         </div>
